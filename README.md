@@ -3,7 +3,7 @@
 
 Welcome to the ConstraintLayout tutorial for Android Studio! This tutorial will guide you through using the `ConstraintLayout` to create flexible and responsive layouts for Android applications.
 
-## Table of Contents
+## Table of Content
 
 - [Introduction](#introduction)
 - [Features Demonstrated](#features-demonstrated)
